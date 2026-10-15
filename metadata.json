@@ -1,0 +1,6 @@
+{
+  "name": "Hamad Hassan Digital Store",
+  "description": "Premium digital store for verified software, subscriptions, VPNs, streaming accounts & licenses with automated delivery, WhatsApp support, and MakerCC API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
